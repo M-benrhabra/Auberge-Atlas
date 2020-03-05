@@ -51,6 +51,7 @@ header nav ul li a:hover{
 }
 .auberge{
     background:url('images/170661041.jpg') no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
