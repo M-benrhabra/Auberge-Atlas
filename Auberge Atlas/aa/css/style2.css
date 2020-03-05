@@ -61,6 +61,7 @@ header nav ul li a:hover{
 #continer {
 	background: url("../images/haeder.jpg") no-repeat ;
 	background-size: cover;
+        background-attachement: fixed;
     background-position: center center;
     display: flex;	
     align-items: center;
@@ -116,6 +117,7 @@ header nav ul li a:hover{
 }
 .contact {
 	background: url("../images/haeder.jpg") no-repeat;
+	background-attachment: fixed;
 	background-size: cover;
     background-position: center center;
 	display: flex;	
